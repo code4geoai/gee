@@ -1,2 +1,6 @@
 /*.gif
 /*.parquet
+/*csv
+/*geojson
+/*geoparquet
+naip_data
