@@ -8,3 +8,4 @@ leafmap.ipynb
 /*.ipynb_checkpoints
 testing.ipynb
 /*.tif*
+Landcover_randomforest_model.pkl
