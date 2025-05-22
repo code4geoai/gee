@@ -10,3 +10,5 @@ testing.ipynb
 /*.tif*
 Landcover_randomforest_model.pkl
 pabb_crop_V3.qmd
+/*.png
+/*.pkl
