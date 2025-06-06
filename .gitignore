@@ -14,3 +14,5 @@ pabb_crop_V3.qmd
 /*.pkl
 /*xml
 /*.doc*
+output
+/*.html
