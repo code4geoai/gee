@@ -16,3 +16,5 @@ pabb_crop_V3.qmd
 /*.doc*
 output
 /*.html
+/*.jsonl
+/VertexAI_*
