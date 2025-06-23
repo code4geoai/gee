@@ -18,3 +18,4 @@ output
 /*.html
 /*.jsonl
 /VertexAI_*
+*.tif
