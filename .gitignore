@@ -21,7 +21,7 @@ output
 *.tif
 *.pth
 <<<<<<< HEAD
-/*Unet*
+
 =======
 *.png
 >>>>>>> e1a22961485f6cefae1ba5b6cd97e832b95aef55
